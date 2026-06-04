@@ -1,6 +1,6 @@
 # 🤖 Asistente Automatizado de Mensajes con IA
 
-https://colab.research.google.com/github/yasminbeltre/asistente-automatizado-mensajes-ia/blob/main/asistente_automatizado_mensajes_ia.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/asistente-automatizado-mensajes-ia/blob/main/asistente_automatizado_mensajes_ia.ipynb)
 
 > Proyecto académico desarrollado como parte del curso de Inteligencia Artificial — Módulo 8  
 > **Autora:** Yasmin Beltre | Customer Success & Operations Specialist  
