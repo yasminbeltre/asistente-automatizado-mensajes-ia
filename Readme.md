@@ -1,5 +1,7 @@
 # 🤖 Asistente Automatizado de Mensajes con IA
 
+https://colab.research.google.com/github/yasminbeltre/asistente-automatizado-mensajes-ia/blob/main/asistente_automatizado_mensajes_ia.ipynb
+
 > Proyecto académico desarrollado como parte del curso de Inteligencia Artificial — Módulo 8  
 > **Autora:** Yasmin Beltre | Customer Success & Operations Specialist  
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yasmin%20Beltre-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yasminbeltre)
